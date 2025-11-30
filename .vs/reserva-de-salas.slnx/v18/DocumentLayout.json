@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251130212156_ADDUsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs",
+              "RelativeToolTip": "reserva-de-salas\\Migrations\\20251130212156_ADDUsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:21:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reserva-de-salas\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:21:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Models\\Usuario.cs",
+              "RelativeToolTip": "reserva-de-salas\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T21:16:23.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
