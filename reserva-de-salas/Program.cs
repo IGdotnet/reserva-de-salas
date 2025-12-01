@@ -14,7 +14,10 @@ builder.Services.AddDbContext<BancoContext>(opts =>
 );
 
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<ISalaRepository, SalaRepository>();
+
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<ISalaService, SalaService>();
 
 var app = builder.Build();
 

@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|c:\\users\\igor\\desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFE8807-73B0-CFBF-3EB9-856FA35460C3}|reserva-de-salas\\reserva-de-salas.csproj|solutionrelative:reserva-de-salas\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,104 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T01:25:44.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Delete.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Usuario\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Delete.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Usuario\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T01:21:58.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Details.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Usuario\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Details.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Usuario\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T01:18:39.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Edit.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Usuario\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Edit.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T01:10:20.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "reserva-de-salas\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAA4wGAAAAAvAAAAAAAAAA==",
+              "Title": "SalaController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Controllers\\SalaController.cs",
+              "RelativeDocumentMoniker": "reserva-de-salas\\Controllers\\SalaController.cs",
+              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Controllers\\SalaController.cs",
+              "RelativeToolTip": "reserva-de-salas\\Controllers\\SalaController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswHkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T00:14:20.496Z",
+              "WhenOpened": "2025-12-01T02:03:30.42Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "reserva-de-salas\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T01:07:12.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T00:53:41.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "reserva-de-salas\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\Desktop\\aspnet\\reserva-de-salas\\reserva-de-salas\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "reserva-de-salas\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T00:43:03.524Z"
             }
           ]
         }
