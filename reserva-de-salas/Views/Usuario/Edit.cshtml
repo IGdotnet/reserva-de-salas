@@ -1,0 +1,34 @@
+﻿@model reserva_de_salas.Models.Usuario
+
+@{
+    ViewData["Title"] = "Editar usuário";
+}
+
+<h1>Editar usuário</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control"/>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Administrador" class="control-label">Administrador?</label>
+        <select asp-for="Administrador" class="form-control">
+            <option value="false">Não</option>
+            <option value="true">Sim</option>
+        </select>
+        <span asp-validation-for="Administrador" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Editar</button>
+    <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+</form>
+
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}

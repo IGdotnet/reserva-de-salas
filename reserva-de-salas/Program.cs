@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using reserva_de_salas;
 using reserva_de_salas.Data;
 using reserva_de_salas.Interfaces;
 using reserva_de_salas.Repositories;
+using reserva_de_salas.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

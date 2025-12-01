@@ -1,7 +1,7 @@
 ﻿using reserva_de_salas.Interfaces;
 using reserva_de_salas.Models;
 
-namespace reserva_de_salas
+namespace reserva_de_salas.Services
 {
     public class UsuarioService : IUsuarioService
     {
@@ -11,27 +11,28 @@ namespace reserva_de_salas
         {
             _usuarioRepository = usuarioRepository;
         }
-
         public async Task<Usuario> CreateAsync(Usuario usuario)
         {
-            var existingUser = await _usuarioRepository.GetByEmailAsync(usuario.Email);
-            if (existingUser != null) {
-                throw new InvalidOperationException("Email já está cadastrado");
+            var existUser = await _usuarioRepository.GetByEmailAsync(usuario.Email);
+            if(existUser != null)
+            {
+                throw new InvalidOperationException("Email já cadastrado");
             }
 
             await _usuarioRepository.AddAsync(usuario);
             await _usuarioRepository.SaveChangesAsync();
-
             return usuario;
         }
 
         public async Task DeleteAsync(long id)
         {
-            var usuario = await _usuarioRepository.GetByIdAsync(id);
-            if (usuario == null) {
+            var user = await _usuarioRepository.GetByIdAsync(id);
+            if(user == null)
+            {
                 throw new InvalidOperationException("Usuário não encontrado");
             }
-            _usuarioRepository.Delete(usuario);
+
+            _usuarioRepository.Delete(user);
             await _usuarioRepository.SaveChangesAsync();
         }
 
