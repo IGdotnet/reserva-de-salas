@@ -13,6 +13,8 @@ namespace reserva_de_salas.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Sala> Salas { get; set; }
 
+        public DbSet<Reserva> Reservas { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
