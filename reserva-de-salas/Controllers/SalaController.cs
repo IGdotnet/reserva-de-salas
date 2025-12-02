@@ -115,7 +115,7 @@ namespace reserva_de_salas.Controllers
                 await _salaService.DeleteSalaAsync(id);
                 TempData["SuccessMessage"] = "Sala deletada";
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 TempData["ErrorMessage"] = "Erro ao deletar a sala";
             }
